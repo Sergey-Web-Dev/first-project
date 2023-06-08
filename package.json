@@ -1,0 +1,19 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sergey-Web-Dev/first-project.git"
+  },
+  "keywords": [],
+  "author": "Sergey Lobodin",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.63.2"
+  }
+}
